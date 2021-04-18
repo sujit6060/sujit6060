@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sujit Nangare
-- 🌱 I’m currently learning PHP Larvel and React
+- 🌱 I’m currently learning PHP Laravel and React
 - 🥅 2021 Goals: Learn and contribute more to Open Source projects.
 
 
