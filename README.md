@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sujit Nangare
-- 🌱 I’m currently learning ReactJS and Python(Django).
+- 🌱 I’m currently learning ReactJS and Nodejs.
 - 🥅 2021 Goals: Learn and contribute more to Open Source projects.
 
 
