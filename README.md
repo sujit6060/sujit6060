@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sujit Nangare
-- 🌱 I’m currently learning ReactJS and Nodejs.
-- 🥅 2021 Goals: Learn and contribute more to Open Source projects.
+- 🌱 I’m currently learning Jenkins and Salesforce.
+- 🥅 2023 Goals: Learn and contribute more to Open Source projects.
 
 
 <!---
